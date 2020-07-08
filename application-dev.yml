@@ -1,2 +1,7 @@
 config:
  info: this is master branch , application-dev.yml ,version = 1
+
+web:
+ site: http://www.zuowenjun.cn,http://zuowj.cnblogs.com--20190227
+ skills: .net,java,html,js,css,sql,python,vb--20190227
+ motto: Learning is endless; Opportunity is for the prepared mind;--20190227
