@@ -1,2 +1,7 @@
 config:
  info: this is master branch , application-pro.yml ,version = 1
+
+web:
+  motto: Learning is endless; Opportunity is for the prepared mind;学无止境；机会是留给有准备的人
+  site: http://www.zuowenjun.cn
+  skills: .net,java,html,js
