@@ -19,9 +19,9 @@ mybatis:
   type-aliases-package: com.d.ms.shopping.domain
 spring:
   datasource:
-    url: dYjXeetMIn9kn4LW4hR9IHI+jdUwHhRIOGljXqWrPPq046pLAzpXieJsTtlIhYGwAD+cNLuZtQhDtVsAcV3a2pV5XoPFuffEEkC1/U00OH4ON9YmjW0rQFEUg6xxjmNxr/HzNEwzpN8mmP+Wdc7CsKNrEpjYuFWb
-    username: DJ75WLEflKGNFC3kAkZMCQ==
-    password: RXUH3kgA0+4wrsOKRyc8vw==
+    url: ENC(dYjXeetMIn9kn4LW4hR9IHI+jdUwHhRIOGljXqWrPPq046pLAzpXieJsTtlIhYGwAD+cNLuZtQhDtVsAcV3a2pV5XoPFuffEEkC1/U00OH4ON9YmjW0rQFEUg6xxjmNxr/HzNEwzpN8mmP+Wdc7CsKNrEpjYuFWb)
+    username: ENC(DJ75WLEflKGNFC3kAkZMCQ==)
+    password: ENC(RXUH3kgA0+4wrsOKRyc8vw==)
     driver-class-name: com.mysql.jdbc.Driver
     filters: stat
     initialSize: 1
