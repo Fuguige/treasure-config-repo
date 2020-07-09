@@ -7,7 +7,7 @@ web:
  motto: Learning is endless; Opportunity is for the prepared mind;--20190227
 
 server:
-  port: 80001
+  port: 8880
 
 logging:
   level:
