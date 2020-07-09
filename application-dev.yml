@@ -37,3 +37,8 @@ spring:
     timeBetweenEvictionRunsMillis: 60000
     type: com.alibaba.druid.pool.DruidDataSource
     validationQuery: select 'x'
+
+# 验证密文时需要的密钥
+jasypt:
+  encryptor:
+    password: lyh
