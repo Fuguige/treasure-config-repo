@@ -1,11 +1,6 @@
 config:
  info: this is master branch , application-dev.yml ,version = 1
 
-web:
- site: http://www.zuowenjun.cn,http://zuowj.cnblogs.com--20190227
- skills: .net,java,html,js,css,sql,python,vb--20190227
- motto: Learning is endless; Opportunity is for the prepared mind;--20190227
-
 server:
   port: 8880
 
@@ -24,9 +19,9 @@ mybatis:
   type-aliases-package: com.d.ms.shopping.domain
 spring:
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/miaosha?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
-    username: mldn
-    password: mldn
+    url: dYjXeetMIn9kn4LW4hR9IHI+jdUwHhRIOGljXqWrPPq046pLAzpXieJsTtlIhYGwAD+cNLuZtQhDtVsAcV3a2pV5XoPFuffEEkC1/U00OH4ON9YmjW0rQFEUg6xxjmNxr/HzNEwzpN8mmP+Wdc7CsKNrEpjYuFWb
+    username: DJ75WLEflKGNFC3kAkZMCQ==
+    password: RXUH3kgA0+4wrsOKRyc8vw==
     driver-class-name: com.mysql.jdbc.Driver
     filters: stat
     initialSize: 1
